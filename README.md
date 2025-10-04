@@ -140,3 +140,21 @@ psql -U myuser -d salon -W
 SELECT * FROM bookings;
 ```
 
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+---
+
+## 📞 Support
+
+If you have any questions or need help setting up the project, please open an issue or contact the maintainer.
+
